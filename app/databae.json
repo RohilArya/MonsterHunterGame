@@ -1,0 +1,9 @@
+{
+  "user": {
+    "password" : "game" ,
+    "email" : "rohil.arya@uoit.net",
+    "gender" : "male",
+    "highscore" : 0,
+    "age" : 21
+  }
+}

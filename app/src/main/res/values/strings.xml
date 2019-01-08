@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="main_screen">WELCOME TO PLEASE LOG IN TO CONTINUE</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="LOGIN">Login</string>
+    <string name="Register">SignUp</string>
+    <string name="greeting">WELCOME TO MONSTER HUNTER</string>
+    <string name="attack1">Attack 1</string>
+    <string name="attack2">Attack 2</string>
+    <string name="currency">Currency</string>
+    <string name="XP">XP</string>
+
+</resources>
